@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 ---
 
 ### 💼 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](#)
 - Email: [patilaniket209@gmail.com](mailto:YourEmail@example.com)
   
 Feel free to check out my repositories and collaborate on projects!
