@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 ### 🔮 Future Learning Technologies
 - Jenkins (for continuous integration)
 - Kubernetes (for container orchestration)
+- AWS (for cloud computing and infrastructure management)
 - Additional DevOps tools to enhance automation and deployment skills
 
 ---
