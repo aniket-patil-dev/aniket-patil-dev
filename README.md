@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I'm Aniket Patil!
 
-<!--
-**Infi-7/Infi-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cloud Computing, Web Development and Data Science. I'm always eager to learn new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Python, SQL, Bash
+- **Technologies:** MySQL, Docker, Ubuntu, Git
+- **Tools:** SQLAlchemy
+- **Familiar with:** Java, C, C++, PHP, React-JS
+
+---
+
+### 🚀 Current Projects
+- **[Blog-Website](https://blog-website-eakj.onrender.com)**: A dynamic blogging platform allowing user interaction, built with [Python, SQLite, SQLAlchemy].
+- **Learning Projects**: Constantly experimenting with new technologies and frameworks in data science and app development.
+
+---
+
+### 📈 GitHub Stats
+![Infi-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infi-7&show_icons=true&theme=dark)
+
+---
+
+### 🌱 Currently Learning
+- SQLAlchemy
+- Advanced Linux Commands and DevOps tools
+- Data Structures and Algorithms in Python
+
+---
+
+### 🔮 Future Learning Technologies
+- Jenkins (for continuous integration)
+- Kubernetes (for container orchestration)
+- Additional DevOps tools to enhance automation and deployment skills
+
+---
+
+### 💼 Get in Touch
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [patilaniket209@gmail.com](mailto:YourEmail@example.com)
+  
+Feel free to check out my repositories and collaborate on projects!
+
