@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 ### 🧰 Tech Stack
 - **Languages:** Python, SQL, Bash
 - **Technologies:** MySQL, Ubuntu, Git, Docker(Beginner)
-- **Tools:** SQLAlchemy
-- **Familiar with:** Java, C, C++, PHP, React-JS
+- **Tools:** SQLAlchemy, Postman
+- **Familiar with:** Java, C, C++, PHP, React-JS, Angular-JS
 
 ---
 
