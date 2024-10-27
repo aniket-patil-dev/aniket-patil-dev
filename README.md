@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Python, SQL, Bash
-- **Technologies:** MySQL, Ubuntu, Git, Docker(Beginner)
+- **Languages:** Python, MySQL, Bash
+- **Technologies:** Ubuntu, Git, Docker(Beginner)
 - **Tools:** SQLAlchemy, Postman
 - **Familiar with:** Java, C, C++, PHP, React-JS, Angular-JS
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 
 ---
 
-### 🔮 Future Learning Technologies
+### 🔮 Technologies Interested In
 - Jenkins (for continuous integration)
 - Kubernetes (for container orchestration)
 - AWS (for cloud computing and infrastructure management)
