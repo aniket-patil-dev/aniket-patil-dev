@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 
 ### 🚀 Current Projects
 - **[Blog-Website](https://blog-website-eakj.onrender.com)**: A dynamic blogging platform allowing user interaction, built with [Python, SQLite, SQLAlchemy].
-- **Learning Projects**: Constantly experimenting with new technologies and frameworks in data science and app development.
 
 ---
 
