@@ -13,17 +13,19 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 ---
 
 ### 🚀 Current Projects
-- **[Blog-Website](https://blog-website-eakj.onrender.com)**: A dynamic blogging platform allowing user interaction, built with [Python, SQLite, SQLAlchemy].
+- Real-Time Disaster Alert SystemReal-Time Disaster Alert System:
+    A serverless disaster alert system built using AWS Lambda, processing 100+ real-time alerts daily with 80% reduced notification latency. Integrates AWS SNS for instant email/SMS alerts and stores disaster data in AWS S3 for historical tracking and analytics. Designed for scalability and cost-efficiency using the AWS Free Tier.
 
 ---
 
 ### 📈 GitHub Stats
-![Infi-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infi-7&show_icons=true&theme=dark)
+![Infi-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket-patil-dev&show_icons=true&theme=dark)
 
 ---
 
 ### 🌱 Currently Learning
-- SQLAlchemy
+- AWS
+- Terraform
 - Advanced Linux Commands and DevOps tools
 - Data Structures and Algorithms in Python
 
@@ -38,7 +40,7 @@ Welcome to my GitHub profile! I'm a Python developer passionate about DevOps, Cl
 ---
 
 ### 💼 Get in Touch
-- Email: [patilaniket209@gmail.com](mailto:YourEmail@example.com)
+- Email: [219patilaniket@gmail.com](mailto:YourEmail@example.com)
   
 Feel free to check out my repositories and collaborate on projects!
 
